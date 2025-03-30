@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  sport_type: MyString
+  start_time: 2025-03-30 16:55:46
+  end_time: 2025-03-30 16:55:46
+  location: MyString
+  stadium: MyString
+  league_tier: MyString
+  home_team: MyString
+  away_team: MyString
+  ticket_price: 9.99
+  capacity: 1
+  organizer: MyString
+  event_status: MyString
+  weather_conditions: MyString
+  televised: false
+  streaming_url: MyString
+  attendance: 1
+
+two:
+  title: MyString
+  description: MyText
+  sport_type: MyString
+  start_time: 2025-03-30 16:55:46
+  end_time: 2025-03-30 16:55:46
+  location: MyString
+  stadium: MyString
+  league_tier: MyString
+  home_team: MyString
+  away_team: MyString
+  ticket_price: 9.99
+  capacity: 1
+  organizer: MyString
+  event_status: MyString
+  weather_conditions: MyString
+  televised: false
+  streaming_url: MyString
+  attendance: 1
