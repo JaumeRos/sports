@@ -41,7 +41,7 @@ gem "bootsnap", require: false
 gem "httparty", "~> 0.23.1"
 
 # CSS framework
-gem "tailwindcss-rails", "~> 2.3"
+gem "tailwindcss-rails", "~> 4.2"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
