@@ -38,7 +38,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 # API client for fetching Barcelona sports events
-gem "httparty", "~> 0.23.1"
+gem "httparty", "~> 0.24.3"
 
 # CSS framework
 gem "tailwindcss-rails", "~> 2.3"
